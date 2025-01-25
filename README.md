@@ -1,6 +1,7 @@
 # Modern Authentication UI
 
-![Authentication UI Preview](https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&q=80&w=1200&h=400)
+![image](https://github.com/user-attachments/assets/f8cb0886-9f2c-47a2-ad9d-ec7ed75dcebf)
+
 
 A modern, responsive authentication interface built with React, TypeScript, and TailwindCSS. Features a beautiful dark theme, smooth animations, and a comprehensive user authentication flow.
 
@@ -123,6 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Jainex - jainexp16@gmail.com
 
-Project Link: [https://github.com/yourusername/modern-auth-ui](https://github.com/yourusername/modern-auth-ui)
+Project Link: [https://github.com/Jainex2/modern-auth-ui](https://github.com/Jainex2/modern-auth-ui)
