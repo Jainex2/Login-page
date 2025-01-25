@@ -28,12 +28,12 @@ A modern, responsive authentication interface built with React, TypeScript, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jainex2/modern-auth-ui.git
+git clone https://github.com/Jainex2/Login-page
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd modern-auth-ui
+cd Login-page
 ```
 
 3. Install dependencies:
